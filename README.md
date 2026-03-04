@@ -57,9 +57,8 @@ How can a business quickly identify top revenue drivers, underperforming SKUs, h
 ## 📁 Deliverables
 - `sql/` — documented SQL scripts (schema, transformations, analyses)  
 - `reports/` — sample query outputs (CSV / Excel)  
-- `screenshots/` — dashboard visuals (Power BI screenshots if PBIX cannot be shared)  
-- `docs/` — short executive slide deck (1–2 slides with action items)
-
+- `screenshots/` — dashboard visuals  
+  
 ---
 
 ## ▶️ How to run
